@@ -26,9 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   From System Design to Applications (HPC+Q)” in conjunction with 
   The International Conference on High Performance Computing
   in the Asia-Pacific Region 
-domain: "hpcq-sca.github.io"
-url: "https://hpcq-sca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hpcq-sca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
