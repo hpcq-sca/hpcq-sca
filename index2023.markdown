@@ -8,7 +8,7 @@ exclude: true
 
 
 <div>
-  <img src="assets/icdcs2022banner.jpeg">
+  <img src="assets/marinabay2.jpg">
 </div>
 
 <br>
@@ -24,11 +24,11 @@ This workshop focuses on an emerging and impactful topic – Quantum Computing (
 
 The integration of HPC and QC is a highly relevant topic of interest: for example, EU’s quantum flagship has pioneered the drafting of the [EuroQCS: European Quantum Computing & Simulation Infrastructure](https://qt.eu/about-quantum-flagship/newsroom/european-quantum-computing-simulation/) whitepaper which specifically pointed out the importance of integrating quantum computers as part of the HPC infrastructure. In the private-public sector, IQM and LRZ also announced their [technical whitepaper](https://meetiqm.com/uploads/documents/IQM_HPC-QC-Integration-Whitepaper.pdf) towards HPC-QC integration recently. Many important conferences, such as ISC22 and QCE22 have specific workshop sessions discussing the topic of HPC-QC integration. It is clear that the field is developing consensus in the near future for quantum computer systems as part of HPC centres, i.e., quantum computer-accelerated supercomputers. We would like to leverage this workshop in hope of addressing the following questions:
 
-1)	What is the right relationship between HPC and QC, or where exactly does quantum computing fit in classical high performance computing infrastructures?
-2)	How to build the classical/quantum hybrid computing system considering both hardware and software integration to realize potential advantage of the NISQ quantum computers? What will be the technical challenges in realizing such hybrid systems? 
-3)	What quantum algorithms and applications can benefit from HPC and QC integration? 
-4)	What will be Asia’s roadmap towards HPC+Q? 
-5)	How may end users and stakeholders benefit from HPC+Q? 
+1.	What is the right relationship between HPC and QC, or where exactly does quantum computing fit in classical high performance computing infrastructures?  
+2.	How to build the classical/quantum hybrid computing system considering both hardware and software integration to realize potential advantage of the NISQ quantum computers? What will be the technical challenges in realizing such hybrid systems?  
+3.	What quantum algorithms and applications can benefit from HPC and QC integration?  
+4.	What will be Asia’s roadmap towards HPC+Q?  
+5.	How may end users and stakeholders benefit from HPC+Q?  
 
 First, as advocated in EuroQCS infrastructure, quantum computers and simulators are positioned to be integrated into the HPC supercomputing infrastructure, where the relationship between HPC and QC is addressed. Important research questions include how and where exactly in the technical full stack the integration should be realized, how the design paradigm and design environment should be upgraded and repurposed to efficiently serve both the classical and quantum components of real-world problems. 
 
@@ -74,4 +74,4 @@ All submissions will go through a single blind peer review process and accepted 
 
 ## Web & Publication Chair:
 
-**Huang Tian**, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR) <hpcq2023@easychair.org>
+**Huang Tian**, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR)
