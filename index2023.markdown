@@ -49,7 +49,7 @@ The HPC+Q workshop will feature hall-day events on 27th Feb. 2023. We plan to in
 +	Dr Mikael Johansson (Quantum Strategist), CSC – IT Center for Science
 +	Prof José Ignacio Latorre (Director, Centre for Quantum Technologies) (confirmed)
 <!-- +	Dr Xavier Vigouroux (Strategic Collaboration Coordinator for HPC AI and Quantum, ATOS) -->
-+ Dr. Jin-Sun Kim (Nvidia, QODA+Nvidia’s overall quantum strategy) （confirmed）
++ Dr. Jin-Sung Kim (Nvidia, QODA+Nvidia’s overall quantum strategy) （confirmed）
 
 We will also organize a panel by the invited speakers to discuss HPC+Quantum Computing potential, challenges & opportunities.
 
