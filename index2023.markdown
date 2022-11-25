@@ -43,13 +43,14 @@ The proposed HPC+Q workshop will offer a timely collection of information to ben
 
 The HPC+Q workshop will feature hall-day events on 27th Feb. 2023. We plan to invite 2 keynote speakers and four invited speakers who are leading experts from both academia and industry. A list of potential keynote and invited speakers includes:
 
-<!-- +	Prof Satoshi Matsuoka (Director, RIKEN Center for Computational Science) -->
++	Prof Satoshi Matsuoka (Director, RIKEN Center for Computational Science) (confirmed)  
 <!-- +	Dr Kuan Yen Tan (CTO, IQM Quantum Computers) -->
 <!-- +	Dr Kimmo Koski (MD, CSC – IT Center for Science) -->
-+	Dr Mikael Johansson (Quantum Strategist), CSC – IT Center for Science
-+	Prof José Ignacio Latorre (Director, Centre for Quantum Technologies) (confirmed)
++	Dr Mikael Johansson (Quantum Strategist), CSC – IT Center for Science (confirmed)  
++	Prof José Ignacio Latorre (Director, Centre for Quantum Technologies) (confirmed)  
 <!-- +	Dr Xavier Vigouroux (Strategic Collaboration Coordinator for HPC AI and Quantum, ATOS) -->
-+ Dr. Jin-Sung Kim (Nvidia, QODA+Nvidia’s overall quantum strategy) （confirmed）
++ Dr. Jin-Sung Kim (Nvidia, QODA+Nvidia’s overall quantum strategy) (confirmed)  
++ Dr. Bruno Taketani (IQM Quantum Computers) (confirmed)  
 
 We will also organize a panel by the invited speakers to discuss HPC+Quantum Computing potential, challenges & opportunities.
 
