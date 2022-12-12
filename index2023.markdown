@@ -63,9 +63,9 @@ The paper format is also described in the “Paper Submission” section of HPCA
 All submissions will go through a single blind peer review process and accepted papers will be considered for oral and poster presentations at HPC+Q. The decision on presentation format will be based primarily on an assessment of the breadth of interest, and the construction.
 
 ### **Important Dates**  
-**Submission Deadline**: 06:00 PM (Pacific Time), Dec. 13th, 2022  
-**Acceptance Notifications**: Jan. 3rd, 2022  
-**Camera-ready**: Jan. 13th, 2023  
+**Submission Deadline**: 06:00 PM (Pacific Time), Dec. 31st, 2022  
+**Acceptance Notifications**: Jan. 10th, 2022  
+**Camera-ready**: Jan. 18th, 2023  
 
 
 ## Organizing Committee
