@@ -55,7 +55,7 @@ The HPC+Q workshop will feature hall-day events on 27th Feb. 2023. We plan to in
 We will also organize a panel by the invited speakers to discuss HPC+Quantum Computing potential, challenges & opportunities.
 
 ### **Submission Information**
-All papers must be original and not simultaneously submitted to another journal or conference. All papers need to be submitted electronically in PDF format through  EasyChair. The submission link will be available soon. Submitted papers must be at most 18 pages in PDF format including figures and references, formatted according to the ACM Proceedings Style. The ACM templates for Word and LaTeX are shown below. Also, ACM has partnered with Overleaf and the ACM LaTeX template on Overleaf platform is available.
+All papers must be original and not simultaneously submitted to another journal or conference. All papers need to be submitted electronically in PDF format through  [EasyChair](https://easychair.org/conferences/?conf=hpcq2023). The submission link will be available soon. Submitted papers must be at most 18 pages in PDF format including figures and references, formatted according to the ACM Proceedings Style. The ACM templates for Word and LaTeX are shown below. Also, ACM has partnered with Overleaf and the ACM LaTeX template on Overleaf platform is available.
 
 Please follow STEP 1 (Microsoft Word/LaTeX) at 2. The Workflow and Templates in https://www.acm.org/publications/authors/submissions Please note that there are two different instructions for Word and LaTeX template users.
 The paper format is also described in the “Paper Submission” section of HPCAsia2023”
