@@ -70,8 +70,9 @@ All submissions will go through a single blind peer review process and accepted 
 
 ## Organizing Committee
 
-**Tao Luo (Chair)**, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR)  
+**Luo Tao (Chair)**, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR)  
 **Yang Liwei**, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR)  
+**Huang Tian (Web Chair)**, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR)  
 **Kong Jian Feng**, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR)  
 **Ye Jun**, Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A\*STAR)  
 
