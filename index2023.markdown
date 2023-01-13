@@ -14,7 +14,7 @@ exclude: true
 <br>
 
 <div style="text-align:center">
-<h2>The International Workshop on “When HPC meet Quantum Computing: From System Design to Applications (HPC+Q)”</h2>
+<h2>The International Workshop on “When HPC meets Quantum Computing: From System Design to Applications (HPC+Q)”</h2>
 <h2>The International Conference on High Performance Computing in the Asia-Pacific Region (HPC Asia 2023)</h2>
 </div>
 
