@@ -41,7 +41,7 @@ The proposed HPC+Q workshop will offer a timely collection of information to ben
 
 ## Workshop Format and Schedule
 
-The HPC+Q workshop will feature hall-day events on 27th Feb. 2023. We invite 2 keynote speakers and six invited speakers who are leading experts from both academia and industry. A list of keynote and invited speakers includes:
+The HPC+Q workshop will feature hall-day events on 27th Feb. 2023. We invite two keynote speakers and six invited speakers who are leading experts from both academia and industry. A list of keynote and invited speakers includes:
 
 <!-- +	Prof Satoshi Matsuoka (Director, RIKEN Center for Computational Science) (confirmed)  --> 
 <!-- +	Dr Kuan Yen Tan (CTO, IQM Quantum Computers) -->
@@ -52,7 +52,6 @@ The HPC+Q workshop will feature hall-day events on 27th Feb. 2023. We invite 2 k
 <!-- + Dr. Jin-Sung Kim (Nvidia, QODA+Nvidia’s overall quantum strategy) (confirmed)   -->
 <!-- + Dr. Bruno Taketani (IQM Quantum Computers) (confirmed)   --> 
 
-<!-- | Time | Event | -->
 | 08:30-09:00 | Keynote Talk 1 "The Hybrid Quantum - Supercomputer Platform Research at Riken" given by Prof Satoshi Matsuoka (Director, RIKEN Center for Computational Science) |
 | 09:00-09:30 | Keynote Talk 2 "News on Quantum Computing" given by Prof José Ignacio Latorre (Director, Centre for Quantum Technologies) |
 | 09:30-10:00 | Invited Talk "Accelerating HPC with a distributed quantum computer network" given by Dr Mikael Johansson (Quantum Strategist, CSC - IT Center for Science Ltd, Finland) |
